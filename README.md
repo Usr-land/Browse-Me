@@ -2,6 +2,7 @@
 a simple portfolio for everyone 
 
 ## what is included
-> Html
-> CSS
+1. HTML
+2. CSS
+
 
